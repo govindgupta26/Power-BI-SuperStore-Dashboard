@@ -106,7 +106,7 @@ SuperStore-Sales-Dashboard/
 - Sales & Profit by State
 ---
 ## 📷 Dashboard Preview
-![Dashboard Preview](image/Dashboard.png) 
+![Dashboard Preview](Dashboard.png) 
 
 
 ## 🎯 Skills Demonstrated
