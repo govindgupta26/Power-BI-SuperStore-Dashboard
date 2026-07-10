@@ -108,7 +108,7 @@ SuperStore-Sales-Dashboard/
 ---
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard Preview](Dashboard.png) 
 
 ## 🎯 Skills Demonstrated
 
