@@ -104,11 +104,10 @@ SuperStore-Sales-Dashboard/
 - Sales by Category
 - Sales by Sub-Category
 - Sales & Profit by State
-
 ---
 ## 📷 Dashboard Preview
+![Dashboard Preview](image/Dashboard.png) 
 
-![Dashboard Preview](Dashboard.png) 
 
 ## 🎯 Skills Demonstrated
 
